@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi tôi tên là bình
+=======
+hi toi la be binh
+
+ban co biet toi khong ne?
+>>>>>>> bebinh1
